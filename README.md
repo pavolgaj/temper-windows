@@ -1,5 +1,5 @@
 # Temper-Windows
-Allows you to access the temperature in celsius of a Temper device on Windows. 
+Allows you to access the temperature in celsius of a Temper USB device on Windows. 
 
 ## Installation
     pip install temper-windows
